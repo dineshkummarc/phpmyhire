@@ -5,7 +5,6 @@ HireMe is a Job Application Portal built using PHP and MySQL. The purpose of thi
 The website is interactive built using HTML, CSS, and BootStrap. Minimal JavaScript is used to perform on-page validations. <br>
 The user has first to register his account. After login, he can submit his application wherein he has to provide his details such as name, email address, phone number, qualification, programming languages he knows and uploads his cv.
 
-
 ## Tech Stacks 🛠️
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
